@@ -4,15 +4,14 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 <!-- Ganti seluruh isian bertanda [ ... ] di bawah. Hapus komentar ini. -->
 
-## Kelompok
+## data pribadi
 
 | Peran | Nama | NIM |
 |---|---|---|
-| Ketua | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
+| Ketua | [Vaulina Ftrisia Siburian] | [124400011] |
 
-- **Kelas:** [RA / RB]
+
+- **Kelas:** [RA]
 - **Lokasi kelompok:** [kode] — [nama lokasi] (digit terakhir NIM terkecil)
 - **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
 
